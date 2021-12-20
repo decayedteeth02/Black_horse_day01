@@ -1,0 +1,7 @@
+div方法出现异常
+异常的名称ArithmeticException
+异常的原因/ by zero
+--------------add方法出现异常
+异常的名称NullPointerException
+异常的原因null
+--------------本次测试一共出现了2次异常
